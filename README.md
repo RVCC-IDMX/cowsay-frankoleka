@@ -1,5 +1,6 @@
 # Cowsay
 ## what does the cow say?
-```
-npm cowsay -- "good night" -owl
+
+```js
+output: npm cowsay -- "good night" -owl
 ```
